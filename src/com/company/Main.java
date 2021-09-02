@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        Solution1 s = new Solution1();
+        WeeklyChallenge_1 s = new WeeklyChallenge_1();
         s.test();
     }
 }
